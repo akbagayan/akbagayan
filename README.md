@@ -8,8 +8,9 @@
   - [homelab-nessus-vulnerability-assessment](https://github.com/AbdoukaderBagayan/homelab-nessus-vulnerability-assessment)
   
 
-<h2>🏅 Certifications </h2>
-
+<h2>🏅 Certifications et formations </h2>
+-🎓 Diplôme d’Ingénieur en Cybersécurité & Cloud — IPSSI Paris
+-🎓 Diplôme d’Ingénieur Systèmes & Réseaux — ITES Abidjan
 - [Microsoft Azure Fundamentals](https://learn.microsoft.com/fr-fr/users/abdoulkaderbagayan-6547/credentials/5fd888bd18949f97?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/fr-fr/users/abdoulkaderbagayan-6547/credentials/168dc4f9104a489d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [CCNA](https://www.credly.com/badges/d45de1c7-8a65-4ca5-a65e-dba3ac18d232/linked_in_profile)
